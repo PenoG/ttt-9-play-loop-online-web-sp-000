@@ -40,4 +40,3 @@ end
 def play(board)
   while turn(board) until 9
 end
-end
